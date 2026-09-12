@@ -236,3 +236,6 @@ This repository serves as the official landing page for Ferrari Virtual Race. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Ferrari Virtual Race today!**
+
+---
+**Last updated:** 2026-09-12 01:53:33 UTC
