@@ -238,4 +238,4 @@ This repository serves as the official landing page for Ferrari Virtual Race. Th
 **Get the most recent version of Ferrari Virtual Race today!**
 
 ---
-**Last updated:** 2026-09-12 23:30:53 UTC
+**Last updated:** 2026-09-13 01:45:26 UTC
